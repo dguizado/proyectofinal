@@ -1,9 +1,9 @@
 def get_menu_choice():
     def print_menu():       # Your menu design here
         
-        print("1. List Use Device  ")
-        print("2. Write USB Device  ")
-        print("3. Read USB Device  ")
+        print("1. Listar dispositivos USB  ")
+        print("2. Escribir en dispositivo USB  ")
+        print("3. Leer en dispositivo USB  ")
    
 
     loop = True
